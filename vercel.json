@@ -1,0 +1,4 @@
+{
+  "builds": [{ "src": "vite.config.*", "use": "@vercel/static-build" }],
+  "routes": [{ "src": "/(.*)", "dest": "/" }]
+}
