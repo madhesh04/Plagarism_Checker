@@ -1,4 +1,5 @@
 {
-  "builds": [{ "src": "vite.config.*", "use": "@vercel/static-build" }],
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
   "routes": [{ "src": "/(.*)", "dest": "/" }]
 }
