@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Plagiarism Checker",
+  "description": "An advanced plagiarism checker that leverages the Gemini API to analyze and compare multiple documents. Users can upload text files to receive a detailed report including similarity percentages and highlighted matched sentences for each document pair.",
+  "requestFramePermissions": []
+}
